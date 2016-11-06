@@ -43,7 +43,7 @@ About::About(QSettings *settings, QWidget *parent) : QDialog(parent)
 
   setFixedSize(450, 400);
   setWindowIcon(QIcon(":icon.png"));
-  setWindowTitle("SantaCandle v."VERSION", www.santacandle.dk");
+  setWindowTitle("SantaCandle v." VERSION ", www.muldjord.com/boris");
 
   move(QApplication::desktop()->width() / 2 - 225, QApplication::desktop()->height() / 2 - 200);
   // About tab
