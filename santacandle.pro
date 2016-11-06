@@ -3,7 +3,7 @@ TARGET = SantaCandle
 DEPENDPATH += .
 INCLUDEPATH += .
 #CONFIG += console
-QT += core gui
+QT += widgets multimedia
 
 include(./VERSION)
 DEFINES+=VERSION=\\\"$$VERSION\\\"

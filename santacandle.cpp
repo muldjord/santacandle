@@ -51,6 +51,7 @@ SantaCandle::SantaCandle()
   }
   
   setFixedSize(500, 820);
+
   setAttribute(Qt::WA_TranslucentBackground);
   setWindowFlags(Qt::FramelessWindowHint|Qt::SubWindow);
 
