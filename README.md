@@ -2,7 +2,7 @@
 Programming: Lars Muldjord
 Graphics: Lars Muldjord
 
-Website: http://www.santacandle.dk
+Website: http://www.muldjord.com/boris
 
 The candle was programmed using the Qt framework (http://www.qt-project.org) and C++.
 
